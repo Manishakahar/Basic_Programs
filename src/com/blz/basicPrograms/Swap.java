@@ -17,6 +17,5 @@ public class Swap {
         System.out.println("After swapping: "+x +"   " + y);
         System.out.println("Value of x:" + x);
         System.out.println("Value of y:" + y);
-        System.out.println( );
     }
 }

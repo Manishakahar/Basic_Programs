@@ -1,6 +1,6 @@
 package com.blz.basicPrograms;
 
-public class quotient {
+public class Quotient {
     public static void main(String[] args) {
         int dividend = 20, divisor = 5;
         int quotient = dividend / divisor;

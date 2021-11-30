@@ -2,7 +2,7 @@ package com.blz.basicPrograms;
 
 import java.util.Scanner;
 
-public class leap {
+class Leap {
     public static void main(String[] args) {
         System.out.println("Enter a 4 digit number: ");
         Scanner scan = new Scanner(System.in);
